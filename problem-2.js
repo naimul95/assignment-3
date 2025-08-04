@@ -1,6 +1,6 @@
 /** Problem -02 ( Cycle or Laptop ) */
 var money = 10000;
-//write your code here
+
 if( money>0 && money<=10^9){
     if( money>=25000){
         console.log('Laptop');}
